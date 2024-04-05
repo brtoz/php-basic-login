@@ -4,7 +4,7 @@ include 'fonksiyon/helper.php';
 /// kullanıcı bilgileri
 $user = [
     'beratozfidan' => [
-        'eposta' => 'beratozfidan@gmail.com',
+        'eposta' => 'beratozfidan@hotmail.com',
         'password' => '12345',
         'darkmode' => false
     ]
