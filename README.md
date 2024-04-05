@@ -1,1 +1,1 @@
-![gif](https://github.com/brtoz/php-basic-login/assets/124490379/6d5916a7-2cc9-40c5-b872-a9c56880e39c)
+![gif](https://github.com/brtoz/php-basic-login/assets/124490379/f6abad55-ef74-47a7-8b30-badb8fd6e5ba)
